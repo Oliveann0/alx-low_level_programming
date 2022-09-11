@@ -11,7 +11,7 @@ int main(void)
 
 	for (i = 0; i < 1000; i++)
 	{
-		j = i;
+		j = i / 100;
 		k = (i / 10) % 10;
 		l = i % 10;
 
