@@ -1,6 +1,11 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
+/**
+ * main - Entry point.
+ * Description: Program to check for negative or positive numbers.
+ * Return: 0 Success.
+ */
 int main(void)
 
 {
