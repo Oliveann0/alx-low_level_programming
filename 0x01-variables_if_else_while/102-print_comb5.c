@@ -3,7 +3,7 @@
  * main - Entry point
  * Description: Program to print all possible
  * combinations of two two digit numbers.
- * Return 0 Success.
+ * Return: 0 Success.
  */
 int main(void)
 {
