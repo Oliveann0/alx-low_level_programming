@@ -27,5 +27,3 @@ void print_diagonal(int n)
 	if (c < 1)
 		_putchar('\n');
 }
-Footer
-
