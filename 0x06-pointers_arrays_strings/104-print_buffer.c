@@ -2,7 +2,7 @@
 /**
  * print_buffer - Fnction that prints buffer.
  * @b: Bytes of buffer.
- * @size Size of buffer.
+ * @size: Size of buffer.
  */
 void print_buffer(char *b, int size)
 {
