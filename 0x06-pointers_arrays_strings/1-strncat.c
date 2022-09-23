@@ -4,7 +4,7 @@
  * @dest: First string.
  * @src: Second string.
  * @n: Number of bytes.
- * Return: Concatenated string.
+ * Return: Concatenated string
  */
 char *_strncat(char *dest, char *src, int n)
 {

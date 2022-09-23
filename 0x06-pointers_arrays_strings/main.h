@@ -16,5 +16,8 @@ void print_number(int n);
 <<<<<<< HEAD
 =======
 char *infinite_add(char *n1, char *n2, char *r, int size_r);
+<<<<<<< HEAD
 void print_buffer(char *b, int size);
 >>>>>>> 6f0854f4da92e4153f2f7d48a2954bbe6ff90db0
+=======
+>>>>>>> 5d209f84b422c0c218564892821d98269c1d11af

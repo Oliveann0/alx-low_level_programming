@@ -9,8 +9,12 @@
  * _strcat - Function that concatenates two strings.
  * @dest: First string.
  * @src: Second string.
+<<<<<<< HEAD
 >>>>>>> 6f0854f4da92e4153f2f7d48a2954bbe6ff90db0
  * Return: Concatenated string.
+=======
+ * Return: Concatenated string
+>>>>>>> 5d209f84b422c0c218564892821d98269c1d11af
  */
 char *_strcat(char *dest, char *src)
 {
