@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * print_number - FUnction that prints an integer.
- * @n: INteger to be printed.
+ * @n: INteger to be printed
  */
 void print_number(int n)
 {

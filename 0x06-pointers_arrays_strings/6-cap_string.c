@@ -2,7 +2,7 @@
 /**
  * cap_string - Function that capitalizes all words of a string.
  * @s: String to capitalize.
- * Return: Capitalized string.
+ * Return: Capitalized string
  */
 char *cap_string(char *s)
 {
